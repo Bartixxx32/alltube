@@ -5,6 +5,7 @@
   "homepage": "http://alltubedownload.net/",
   "type": "project",
   "require": {
+    "php": "7.3.11",
     "aura/session": "~2.1.0",
     "barracudanetworks/archivestream-php": "~1.0.5",
     "guzzlehttp/guzzle": "~6.3.0",
