@@ -20,6 +20,7 @@
     "zonuexe/http-accept-language": "~0.4.1"
   },
   "require-dev": {
+    "php": "7.3.11",
     "anam/phantomjs-linux-x86-binary": "~2.1.1",
     "consolidation/robo": "^2.0",
     "ffmpeg/ffmpeg": "^4.1",
